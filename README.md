@@ -25,7 +25,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=emilbogdanov&label=Profile%20views&color=770677&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=emilbogdanov&label=Profile%20views&color=770677&style=for-the-badge&logo=star&base=3000" alt="Profile views" style="padding-right:20px;" />
 </p>
 
 
