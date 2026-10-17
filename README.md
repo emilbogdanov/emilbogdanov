@@ -23,9 +23,15 @@
 - 📫 Open to collaboration, interesting projects, and new opportunities.
 <!--End Intro-->
 
-<!--Profile Count Badge-->
+<!--Contact & Views-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=emilbogdanov&label=Profile%20views&color=770677&style=for-the-badge&logo=star&base=3000" alt="Profile views" style="padding-right:20px;" />
+  <a href="https://www.linkedin.com/in/emilbogdanov/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:emo.s.bogdanov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-770677?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=emilbogdanov.emilbogdanov&left_text=Profile%20Views&left_color=%23555555&right_color=%23770677" alt="Profile views" />
 </p>
 
 
